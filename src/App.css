@@ -1,0 +1,4 @@
+.react-flow__node {
+ border: none !important; /* Removes the border from all nodes */
+ background-color: red;
+}
